@@ -4,3 +4,7 @@
 @define-color border #524f67;
 @define-color foreground #e0def4;
 @define-color background #191724;
+
+#box, #search {
+  border-radius: 8px;
+}
